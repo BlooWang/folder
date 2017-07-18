@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../css/base.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>无法运行</h1>
+<div id="main">
+  <p>如图：</p>
+  <p><img src="images/No1/01.jpg" /></p>
+  <p>【Component 'MSADODC.OCX' or one of its dependencies not correctly registered: a file is missing or invalid】</p>
+  <p>首次使用估计很多人都会出现这样的问题，解决方案也很简单</p>
+  <p>首先尝试管理员身份运行sqsx，如果不行再执行以下操作</p>
+  <p>复制或剪切<strong>MSCOMCTL.OCX</strong></p>
+  <p>到C:\windows\system32(64位系统需要同时放在C:\windows\syswow64)里，然后以管理员方式运行cmd，并输入</p>
+  <p><strong>regsvr32 MSCOMCTL.OCX</strong></p>
+  <p>如果64位系统输入以上出错的话，那么先执行以下命令：</p>
+  <p><strong>cd %systemroot%\syswow64</strong></p>
+  <p>然后再执行<strong>regsvr32 MSCOMCTL.OCX</strong></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "configs": [
+    {
+      "server": "23.83.224.164",
+      "server_port": 9005,
+      "password": "Bloo",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "23.83.224.164",
+      "server_port": 9004,
+      "password": "yzztingphine",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    },
+    {
+      "server": "127.0.0.1",
+      "server_port": 2000,
+      "password": "Bloo",
+      "method": "rc4-md5",
+      "remarks": "",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 2,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}

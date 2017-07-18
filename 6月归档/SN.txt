@@ -1,0 +1,122 @@
+聚云宝
+
+管理员
+http://wp.weyes.cn/admin.php
+admin,admin123,zhang1994
+
+用户端
+http://wp.weyes.cn/
+帐号:juyunbao,Z123123123
+
+各公司测试帐号:weyes-test,qwerty123
+
+
+========================================================
+全网通
+http://backcontrol.weyes.cn/backend/web/index.php
+广州帐号:guangzhou,guangzhou123
+超级管理员:admin,weyes^xx%xxx@3!tttx_weyes
+用户后台:域名+admin(默认帐号:admin,123456)
+
+
+**test
+http://gz1.weyes.com.cn/ 前台,test@test.com,123456,后台,admin,weyes^xx%xxx@3!tttx_weyes
+
+
+
+=========================================================
+微信公众号企业邮箱开通：  
+guangzhou@weyes.cn,qwerty123
+kaifa@weyes.cn,qwerty123
+
+微信公众号
+**认证信息
+	企业名称:广州聚焦网络技术有限公司
+	营业执照注册号:91440104775667302J（三证合一）
+	对公账户名:广州聚焦网络技术有限公司
+	账户帐号:800117979609017
+	开户银行:广州银行
+	开户地点:越秀支行
+
+**开放平台
+	http://open.weixin.qq.com
+	yunjes@126.com,Z123123123
+	
+**聚焦伟业
+	**微信公众号:聚焦网络(jujiaoweiye)
+	hekong@21cn.com,Jujiaofazhan2014
+	AppID(应用ID):wx4b14f89e4cf40e45
+	AppSecret(应用密钥):e6a20bef90c04f39ddb552fca59474f1
+	**商户平台
+	微信支付商户号:1323359701
+	商户平台登录帐号:1323359701@1323359701,059912
+	API密钥:JujiaoJuyunbaoHekong21cncom00001
+
+**广州分公司
+	**微信公众号:聚焦试用平台(weyescn)
+	guangzhou@weyes.cn,qwerty123.
+	AppID(应用ID):wx9cf024a924bee8e8
+	AppSecret(应用密钥):c375341035be669531b0e512058c22ce
+	**商户平台
+	微信支付商户号:1355378402
+	商户平台登录帐号:1355378402@1355378402
+	商户平台登录密码:230969
+	API密钥:JujiaoJuyunbaoHekong21cncom00002
+
+**开发专用    
+	**微信公众号:聚焦研发部门(jujiao_yanfa)
+	kaifa@weyes.cn,qwerty123.
+	AppID(应用ID):wx209ae3f4d0c671b3
+	AppSecret(应用密钥):1766539edbd6f4e4fe728df920879bdb
+	**商户平台
+	微信支付商户号:1355349602
+	商户平台登录帐号:1355349602@1355349602
+	商户平台登录密码:181721
+	API密钥:JujiaoJuyunbaoHekong21cncom00003
+
+
+
+****
+
+===========================================================
+
+**聚云量
+	**用户后台
+	http://ad.sys.weyes.cn/
+	gzq,123456
+	tevise,123456
+
+	**管理后台
+	http://admin.sys.weyes.cn/
+	admin,jyl!weyes2016
+
+	**流量统计
+	tongji.cnzz.com
+	1934049136@qq.com,qq123456
+
+	
+	**搜狐汇算
+	http://hui.sohu.com/
+	广州市春往投资顾问有限公司,chunwangtz@sohu.com,chunwang2016
+
+
+
+=============================================================
+**云集市
+	**超级管理员
+	http://www.yunjes.com/
+	super168999,admin123456
+
+
+=============================================================
+**支付宝
+	hk@weyes.cn,登:weyes2013weyes,支:hekong@2013
+	PID:2088801356103018
+	Key:1bnz1zdv7x4sqwanjmq80ymit3tc4if2
+
+
+
+
+
+
+

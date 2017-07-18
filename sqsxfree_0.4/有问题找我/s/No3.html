@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../css/base.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+img{margin:15px 0;}
+</style>
+</head>
+
+<body>
+<h1>619、628错误</h1>
+<div id="main">
+  <p><img src="images/No3/01.jpg" /></p>
+  <p>首先打开路由器控制台，如果不知道怎么打开可以点击开始-运行-cmd
+  <p>输入<strong>ipconfig</strong></p>
+  <p>向上拉，找下一个叫<strong>本地连接</strong>的(一般叫本地连接)</p>
+  <p>然后发现默认网关(192.168.1.1)，那就是路由器控制台的地址，同时，我们还要记住ipv4地址(192.168.1.100)，一会用得上</p>
+  <p><hr /></p>
+  <p><img src="images/No3/02.jpg" /></p>
+  <p>打开浏览器，输入默认网关，也就是刚刚记住的192.168.1.1，并输入密码后打开控制台，如果不知道密码的话，要重置路由器，怎么重置就不说了，自己百度，点击<strong>转发规则</strong>-<strong>虚拟服务器</strong>-<strong>添加新条目</strong></p>
+  <p><hr /></p>
+  <p><img src="images/No3/03.jpg" /></p>
+  <p>分别映射<strong>1723</strong>和<strong>1701</strong>端口<br />ip地址，填的是你自己的内网IP，也就是刚刚记录的ipv4</p>
+  <p>如果看见类似关键字：【内部端口】和【外部端口】，两个写一样的，例如内部端口：1723，外部端口：1723</p>
+  <p>如果强制需要写一个端口区间，都写一样的，例如：内部端口：1723-1723，外部端口：1723-1723</p>
+  <p>记住，要映射两个端口，也就是说这个操作要操作两次，只是需要填写的端口不同而已</p>
+  <p><hr /></p>
+  <p><img src="images/No3/04.jpg" /></p>
+  <p>最后，映射完毕</p>
+  <p><hr /></p>
+  <p>如果依然无效，可能网络相关原因，只能用L2TP类型，在线路列表里，只能挑选P_L列有个L字的线路</p>
+</div>
+</body>
+</html>

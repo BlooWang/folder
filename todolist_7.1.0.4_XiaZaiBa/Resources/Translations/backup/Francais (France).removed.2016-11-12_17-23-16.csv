@@ -1,0 +1,9 @@
+﻿TRANSTEXT 7.0.999.4
+PRIMARY_LANGID 9
+English Text	Translated Text	Item Type
+NEED_TRANSLATION
+"Use Microsoft Word to convert content to HTML for printing"	""	"checkbox.16013"
+TRANSLATED
+"Exporting Csv File"	"Exportation du fichier csv"	"dialog"
+  "Exporting Csv File"	""	"text"
+"Import Tasklist"	"Importer Liste de Tâches"	"text"

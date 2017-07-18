@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="../css/base.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>用L2TP连接，都是789错误</h1>
+<div id="main">
+  <p>在桌面新建一个文本</p>
+  <p>复制粘贴以下：</p>
+  <p>Windows Registry Editor Version 5.00 </p>
+  <p>[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\RasMan\Parameters] &quot;ProhibitIpSec&quot;=dword:00000001</p>
+  <p>保存为reg文件，运行，确定，然后重启即可</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+﻿TRANSTEXT 7.0.999.4
+PRIMARY_LANGID 9
+English Text	Translated Text	Item Type
+TRANSLATED
+"Exporting Csv File"	"Exportando archivo CSV"	"text"
+  "Exporting Csv File"	"Exportando archivo CSV"	"dialog"
+"Import Tasklist"	"Importar Lista de Tareas"	"text"
+"Start/Stop Clock"	"Reloj de inicio/parada"	"text"
+"Use Microsoft Word to convert content to HTML for printing"	"Utilizar Microsoft Word para convertir el contenido a HTML para imprimir"	"checkbox.16013"
