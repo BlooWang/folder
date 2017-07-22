@@ -1,0 +1,23 @@
+测试后台：http://120.25.204.101:8888/adminLogin#/
+正式后台：http://m.zazfix.com:8888/adminLogin#/
+
+账号密码：admin zazhuang20160415
+
+宅无限安装到家：测试服务号
+咋装安装到家：个人、安装师傅服务号（正式）
+咋装商户通：商家服务号（正式）
+
+
+咋装师傅端：IOS、安卓各大应用市场有上线，可下载下来看
+APP的测试包见资料
+
+
+PC商户通测试 http://120.25.204.101:818/login#/
+PC商户通正式 http://m.zazfix.com:818/merchantLogin#/
+
+
+团队协助工具：tower
+
+
+
+
